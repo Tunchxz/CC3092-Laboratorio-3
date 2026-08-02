@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+*.pyc
+convergencia_seq2seq.png
